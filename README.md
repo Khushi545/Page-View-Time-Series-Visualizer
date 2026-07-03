@@ -1,13 +1,7 @@
 # Page-View-Time-Series-Visualizer
 # Page View Time Series Visualizer
 
-A data visualization project built with Python that analyzes freeCodeCamp forum page view trends from May 2016 to December 2019.
-
-## Project Overview
-
-This project is part of the **freeCodeCamp Data Analysis with Python** certification. It visualizes time series data using line charts, bar charts, and box plots to identify yearly and monthly growth patterns in forum traffic.
-
----
+A data visualization project built with Python
 
 ## Output Screenshots
 
@@ -104,7 +98,6 @@ df = df[
 The dataset contains daily page view counts for the freeCodeCamp.org forum from **May 9, 2016** to **December 3, 2019**.
 
 - Total rows after cleaning: **1,238**
-- Source: [freeCodeCamp](https://www.freecodecamp.org)
 
 ---
 
