@@ -119,6 +119,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## Acknowledgements
 
-- [freeCodeCamp](https://www.freecodecamp.org) for the project idea and dataset
